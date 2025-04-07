@@ -1,0 +1,13 @@
+{
+  "name": "discord-mod-notification-bot",
+  "version": "1.0.0",
+  "description": "A Discord bot that sends moderator application notifications via an HTTP endpoint.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.18.0",
+    "express": "^5.1.0"
+  }
+}
